@@ -1,6 +1,6 @@
 <?php
 
-class CloudFront {
+class CloudFrontSignedUrl {
 
 	/**
 	 * @var string
